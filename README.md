@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 ---
 title: Tabletop Traverse
 emoji: 🛰️
