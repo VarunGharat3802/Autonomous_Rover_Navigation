@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ---
 title: Tabletop Traverse
 emoji: 🛰️
@@ -28,7 +29,8 @@ scan (.ply) → table plane (RANSAC) → 1 cm height grid → hazard classes →
 
 ```bash
 pip install -r requirements.txt
-uvicorn server:app --port 7860
+uvicorn server:app --port 7860 #MacOS
+python -m uvicorn server:app --port 7860 #Windows
 # open http://localhost:7860
 ```
 
