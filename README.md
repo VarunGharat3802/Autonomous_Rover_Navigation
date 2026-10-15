@@ -1,3 +1,5 @@
+# Tabletop Traverse
+
 ---
 title: Tabletop Traverse
 emoji: 🛰️
@@ -7,8 +9,6 @@ sdk: docker
 app_port: 7860
 pinned: false
 ---
-
-# Tabletop Traverse
 
 Built at [Sundai](https://www.sundai.club) · Autonomous Spacecraft Hack.
 
